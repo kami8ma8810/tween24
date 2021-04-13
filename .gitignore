@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+/sample/test.html
+/sample/tweenmax
+/.idea
+package-lock.json
+
+# src フォルダーでは TypeScript ファイルのみ管理
+src/**/*.js
